@@ -4,13 +4,17 @@ import "./Home.css";
 
 function Home() {
   return (
-    <div>
-      <h3>
+    <div className="home-container">
+      <h3 className="title">
         Visual Studio Code keyboard shortcut reference sheet for your platform
       </h3>
       <div className="homepage-options">
-        <Link to="/windows">Windows ShortCut</Link>
-        <Link to="/mac">Mac ShortCut</Link>
+        <Link to="/windows" className="shortcut-button">
+          Windows ShortCut
+        </Link>
+        <Link to="/mac" className="shortcut-button">
+          Mac ShortCut
+        </Link>
       </div>
     </div>
   );
