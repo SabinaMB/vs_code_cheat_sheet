@@ -5,7 +5,10 @@ footer {
     padding: 10px;
     position: fixed;
     bottom: 0;
-    width: 100%;
+   display: flex;
+  flex-direction: column;
+  align-items: center;
+  width:100%; 
   }
   
   .footer-container {
@@ -15,9 +18,10 @@ footer {
   }
   
   .github-icon {
-    width: 30px;
+    width: 50px;
     height: auto;
     margin-left: 5px;
+    padding: 6px;
   }
   
   .created-by {
