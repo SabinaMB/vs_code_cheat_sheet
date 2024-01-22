@@ -18,6 +18,12 @@ header {
    
   }
 
+  .vscode-icon {
+    width: 40px; 
+    height: auto;
+    margin-right: 10px;
+  }
+
   .main-title {
     margin: 0;
     font-size: 2em; 
