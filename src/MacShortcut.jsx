@@ -6,10 +6,15 @@ import "react-tabs/style/react-tabs.css";
 const MacShortcut = () => {
 
 
+  const goBack = () => {
+    window.history.back();
+  };
+
 
   return (
     <div>
       <h1>MacShortcut</h1>
+      <button onClick={goBack}>Go Back</button><br />
       <img src={apple} alt="apple" />
       <Tabs>
         <TabList>
