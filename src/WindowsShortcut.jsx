@@ -20,6 +20,12 @@ const WindowsShortcut = () => (
 
     <TabPanel>
       <table className="table-auto">
+        <thead>
+          <tr>
+            <th>Shortcut</th>
+            <th>Description</th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>Ctrl+Shift+P, F1</td>
@@ -46,6 +52,12 @@ const WindowsShortcut = () => (
     </TabPanel>
     <TabPanel>
       <table className="table-auto">
+        <thead>
+          <tr>
+            <th>Shortcut</th>
+            <th>Description</th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>Ctrl+X</td>
@@ -152,6 +164,12 @@ const WindowsShortcut = () => (
     </TabPanel>
     <TabPanel>
       <table className="table-auto">
+        <thead>
+          <tr>
+            <th>Shortcut</th>
+            <th>Description</th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>Ctrl+T</td>
@@ -198,6 +216,12 @@ const WindowsShortcut = () => (
     </TabPanel>
     <TabPanel>
       <table className="table-auto">
+        <thead>
+          <tr>
+            <th>Shortcut</th>
+            <th>Description</th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>Ctrl+F</td>
@@ -232,6 +256,12 @@ const WindowsShortcut = () => (
     </TabPanel>
     <TabPanel>
       <table className="table-auto">
+        <thead>
+          <tr>
+            <th>Shortcut</th>
+            <th>Description</th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>Alt+Click</td>
@@ -286,6 +316,12 @@ const WindowsShortcut = () => (
     </TabPanel>
     <TabPanel>
       <table className="table-auto">
+        <thead>
+          <tr>
+            <th>Shortcut</th>
+            <th>Description</th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>Ctrl+Space, Ctrl+I</td>
@@ -340,6 +376,12 @@ const WindowsShortcut = () => (
     </TabPanel>
     <TabPanel>
       <table className="table-auto">
+        <thead>
+          <tr>
+            <th>Shortcut</th>
+            <th>Description</th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>Ctrl+F4, Ctrl+W</td>
@@ -374,6 +416,12 @@ const WindowsShortcut = () => (
     </TabPanel>
     <TabPanel>
       <table className="table-auto">
+        <thead>
+          <tr>
+            <th>Shortcut</th>
+            <th>Description</th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>Ctrl+N</td>
@@ -436,6 +484,12 @@ const WindowsShortcut = () => (
     </TabPanel>
     <TabPanel>
       <table className="table-auto">
+        <thead>
+          <tr>
+            <th>Shortcut</th>
+            <th>Description</th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>F11</td>
@@ -502,6 +556,12 @@ const WindowsShortcut = () => (
     </TabPanel>
     <TabPanel>
       <table className="table-auto">
+        <thead>
+          <tr>
+            <th>Shortcut</th>
+            <th>Description</th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>F9</td>
@@ -532,6 +592,12 @@ const WindowsShortcut = () => (
     </TabPanel>
     <TabPanel>
       <table className="table-auto">
+        <thead>
+          <tr>
+            <th>Shortcut</th>
+            <th>Description</th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>Ctrl+`</td>
