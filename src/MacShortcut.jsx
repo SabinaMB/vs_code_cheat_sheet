@@ -1,4 +1,4 @@
-import apple from "../public/apple.svg";
+import apple from "./assets/img/apple.svg";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "react-tabs/style/react-tabs.css";
 
