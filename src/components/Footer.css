@@ -17,9 +17,10 @@ footer {
   .github-icon {
     width: 30px;
     height: auto;
+    margin-left: 5px;
   }
   
   .created-by {
-    font-size: 0.8em;
+    font-size: 1em;
   }
   
